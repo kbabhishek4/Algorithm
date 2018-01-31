@@ -2,4 +2,4 @@ Algorithm (PHP)
 =========
 
 Famous algorithm in php
-cpoyright developers.hokite.com
+cpoyright https://kbabhishek4.wordpress.com
